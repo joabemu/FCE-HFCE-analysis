@@ -1,0 +1,3 @@
+component,dataset_reference,boundary_quantity,boundary_value,original_metric,modified_metric,reduction_factor,metric_definition
+RFCE,Heart,FCE,0.0003805224841926247,2627.9656039819947,96.33426463097516,27.279656039819947,local sensitivity to FCE_minus; regularized delta=0.01
+Modulation,Iono,abs(RFC),0.00103759765625,0.2071103453636169,1.660126044633614e-05,12475.579552113204,|g(-epsilon)-g(+epsilon)|; smooth alpha=4
